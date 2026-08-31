@@ -1,4 +1,4 @@
-# Bootcamp Git Project
+# Bootcamp DevOps - Respositori Latihan
 Sesi Git 1
 ## Tujuan
 Belajar git workflow lokal.
